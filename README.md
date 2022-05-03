@@ -1,0 +1,16 @@
+### Hello World, I’m Leander
+ 
+I’m currently writing my Baechlors Thesis about Semantic Web Technology in the context of Multi Agent Manufacturing.
+Besides that, I also work doing Web-development, mostly in React.
+
+Feel free to contact me...
+
+* ... using E-mail under leander.pfeiffer@tum.de
+* ... on [LinkedIn](http://linkedin.com/in/leander-pfeiffer-35072b16b)
+* ... or just give me a call at +491747753750 ;)
+
+_Looking forward to hearing from you!_
+<!---
+leanderpfeiffer/leanderpfeiffer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
