@@ -7,8 +7,7 @@ Besides that, I also work doing Web-development, mostly in React.
 Feel free to contact me...
 
 * ... using E-mail under leander.pfeiffer@tum.de
-* ... on [LinkedIn](http://linkedin.com/in/leander-pfeiffer-35072b16b)
-* ... or just give me a call at +491747753750 ;)
+* ... or on [LinkedIn](http://linkedin.com/in/leander-pfeiffer-35072b16b)
 
 _Looking forward to hearing from you!_
 <!---
