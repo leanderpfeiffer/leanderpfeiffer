@@ -1,10 +1,8 @@
-### Hello World, I’m Leander
+### Hello World, I’m Leander 
  
-I’m a Master student in mechanical engineering and aerospace in a double degree programm between the Royal Institute of Technology (KTH) and the Technical University of Munich.
-My background is in mechanical engineering with a focus on automation and information systems. My Bachelors Thesis was about Semantic Web Technology in the context of Multi Agent Manufacturing.
-Besides that, I also work doing Web-development, mostly in React.
+I’m a PhD student in automatic control with a focus on energy-based methods for continuum robotics. My background is double degree master in mechanical engineering and aerospace at the Royal Institute of Technology (KTH) and the Technical University of Munich respecively.
 
-Feel free to contact me...
+You can reach me ...
 
 * ... using E-mail under leander.pfeiffer@tum.de
 * ... or on [LinkedIn](http://linkedin.com/in/leander-pfeiffer-35072b16b)
